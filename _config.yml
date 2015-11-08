@@ -1,0 +1,23 @@
+name: goldsboroughlaw
+favicon: null
+layout_spectrum: 0.07353682001121342
+typography_spectrum: 0.7441140590235591
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.22628629230894148
+  lightness: 0.18936657975427806
+  saturation: 0.43062823871150613
+  rhythmicContrast: 0.49074625549837947
+purpose: []
