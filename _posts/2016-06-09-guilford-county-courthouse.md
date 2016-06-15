@@ -1,28 +1,25 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-keywords: []
-description: Goldsborough Law
-datePublished: '2016-06-15T04:55:13.448Z'
-dateModified: '2016-06-15T04:54:58.604Z'
-title: ''
-author:
-  - name: ''
-    url: ''
-sourcePath: _posts/2016-06-09-guilford-county-courthouse.md
 authors: []
-publisher: null
+dateModified: '2016-06-15T12:02:33.635Z'
+datePublished: '2016-06-15T12:04:53.658Z'
+description: Goldsborough Law
+hasPage: true
+inFeed: true
+inNav: false
+keywords: []
+title: ''
+author: []
 starred: false
+sourcePath: _posts/2016-06-09-guilford-county-courthouse.md
 url: guilford-county-courthouse/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/207dc267-dbc4-45dc-8042-77755cd202f8.jpg)
+
 Goldsborough Law
 
 Law Offices of Brandon S. Goldsborough, PLLC
-![Greensboro Courthouse](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9fab8bc4-694c-42fb-b52e-e0ea2226eacf.jpg)
 
 Two convenient locations:
 
@@ -37,3 +34,4 @@ Fax: (336) 217-8769
 email: bsglawyer@gmail.com
 
 Goldsborough Law
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2ec10328-0a09-41b7-b3bd-a45e82f1fa9c.jpg)
