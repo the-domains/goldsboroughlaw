@@ -1,7 +1,7 @@
 ---
 authors: []
-dateModified: '2016-06-15T12:02:33.635Z'
-datePublished: '2016-06-15T12:04:53.658Z'
+dateModified: '2016-06-15T12:09:45.708Z'
+datePublished: '2016-06-15T12:10:08.400Z'
 description: Goldsborough Law
 hasPage: true
 inFeed: true
@@ -35,3 +35,5 @@ email: bsglawyer@gmail.com
 
 Goldsborough Law
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2ec10328-0a09-41b7-b3bd-a45e82f1fa9c.jpg)
+
+> Serving your legal needs in the Piedmont
