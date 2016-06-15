@@ -1,7 +1,7 @@
 ---
 authors: []
-dateModified: '2016-06-15T12:09:45.708Z'
-datePublished: '2016-06-15T12:10:08.400Z'
+dateModified: '2016-06-15T12:12:19.820Z'
+datePublished: '2016-06-15T12:12:44.376Z'
 description: Goldsborough Law
 hasPage: true
 inFeed: true
@@ -28,8 +28,6 @@ Two convenient locations:
 8 West Third Street, Suite 300-F, Winston-Salem, North Carolina 27101
 
 Tel: (336) 337-7991
-
-Fax: (336) 217-8769
 
 email: bsglawyer@gmail.com
 
