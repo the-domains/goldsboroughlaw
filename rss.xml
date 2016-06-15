@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Goldsborough Law]]></title>
+        <description><![CDATA[Goldsborough Law]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 15 Jun 2016 04:55:14 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Guilford County Courthouse]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9fab8bc4-694c-42fb-b52e-e0ea2226eacf.jpg" alt="Greensboro Courthouse" title="">]]></description>
+            <link>undefinedguilford-county-courthouse/index.html</link>
+            <guid isPermaLink="false">2f155aee-300f-4540-ab9b-53f20e08e2e3</guid>
+            <pubDate>Wed, 15 Jun 2016 04:55:13 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
