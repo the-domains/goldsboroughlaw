@@ -1,36 +1,36 @@
-name: goldsboroughlaw
-favicon: null
-layout_spectrum: 0.07353682001121342
-typography_spectrum: 0.7441140590235591
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
+layout_spectrum: 0.07353682001121342
 title: Goldsborough Law
 cta:
-  domain: null
   bucket: null
   version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+  domain: null
 color:
-  brandColors: []
-  brandStrength: 0.2262862923089415
-  lightness: 0.1893665797542781
   saturation: 0.4306282387115061
+  brandStrength: 0.2262862923089415
   rhythmicContrast: 0.4907462554983795
+  brandColors: []
+  lightness: 0.1893665797542781
 purpose: []
+favicon: null
+name: goldsboroughlaw
+typography_spectrum: 0.7441140590235591
