@@ -13,11 +13,11 @@ collections:
       format: rss
       number: 10
 color:
-  saturation: 0.4306282387115061
+  saturation: 0.6753795
   brandStrength: 0.2262862923089415
-  rhythmicContrast: 0.4907462554983795
+  lightness: 0.9266442
   brandColors: []
-  lightness: 0.1893665797542781
+  rhythmicContrast: 0.8482293
 cta:
   bucket: null
   version: null
@@ -26,8 +26,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: goldsboroughlaw
+favicon: null
 opengraph:
   image: null
   type: null
