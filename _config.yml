@@ -6,18 +6,18 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
   saturation: 0.6753795
   brandStrength: 0.2262862923089415
-  lightness: 0.9266442
-  brandColors: []
   rhythmicContrast: 0.8482293
+  brandColors: []
+  lightness: 0.9266442
 cta:
   bucket: null
   version: null
@@ -26,11 +26,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: goldsboroughlaw
 favicon: null
+name: goldsboroughlaw
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.7441140590235591
-layout_spectrum: 0.8937606
+layout_spectrum: 0.5126476
