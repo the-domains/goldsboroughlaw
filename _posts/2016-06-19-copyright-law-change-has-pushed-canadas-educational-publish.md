@@ -7,8 +7,8 @@ keywords: []
 description: >-
   Copyright law change has pushed Canada's educational publishers 'off a cliff'
   http://flip.it/UhbGA
-datePublished: '2016-06-20T01:18:24.917Z'
-dateModified: '2016-06-20T01:18:16.738Z'
+datePublished: '2016-06-20T01:53:04.717Z'
+dateModified: '2016-06-20T01:53:04.479Z'
 title: ''
 author:
   - name: ''
