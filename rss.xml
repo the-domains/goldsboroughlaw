@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Goldsborough Law]]></title>
         <description><![CDATA[Goldsborough Law]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/goldsboroughlaw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 17 Jun 2016 21:23:37 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 20 Jun 2016 01:18:26 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/goldsboroughlaw/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Copyright Law]]></title>
+            <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ed5c97883657c1bb5b94a85c91715626/croprotate.jpg?cropheight=663&cropwidth=1180&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fa3aa7355-5adc-4a65-92fc-369043cddb32.jpg&x=0&y=0" alt="" title="">]]></description>
+            <link>https://thegrid.ai/goldsboroughlaw/copyright-law/index.html</link>
+            <guid isPermaLink="false">cb604c3d-0179-4a2a-8b8d-d82ab3123040</guid>
+            <pubDate>Mon, 20 Jun 2016 01:18:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Guilford County Courthouse]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6bba34f7-6dd6-400e-8f0c-23dc0e58215f.jpg">]]></description>
-            <link>undefinedguilford-county-courthouse/index.html</link>
+            <link>https://thegrid.ai/goldsboroughlaw/guilford-county-courthouse/index.html</link>
             <guid isPermaLink="false">2f155aee-300f-4540-ab9b-53f20e08e2e3</guid>
             <pubDate>Fri, 17 Jun 2016 21:23:14 GMT</pubDate>
         </item>
