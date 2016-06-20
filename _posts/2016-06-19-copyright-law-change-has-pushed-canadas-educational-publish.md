@@ -1,15 +1,14 @@
 ---
-inFeed: true
-hasPage: false
+inFeed: false
+hasPage: true
 inNav: false
-isBasedOnUrl: ''
 inLanguage: null
 keywords: []
 description: >-
   Copyright law change has pushed Canada's educational publishers 'off a cliff'
   http://flip.it/UhbGA
-datePublished: '2016-06-20T01:12:46.986Z'
-dateModified: '2016-06-20T01:12:32.592Z'
+datePublished: '2016-06-20T01:15:40.248Z'
+dateModified: '2016-06-20T01:15:03.129Z'
 title: ''
 author:
   - name: ''
@@ -19,6 +18,7 @@ sourcePath: >-
 authors: []
 publisher: null
 starred: false
+url: copyright-law/index.html
 _context: 'http://schema.org'
 _type: Article
 
