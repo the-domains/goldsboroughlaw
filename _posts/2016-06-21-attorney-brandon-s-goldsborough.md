@@ -1,23 +1,24 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/a14e9f99-55f8-4fc7-8045-a62110f9fbd0.png
 inLanguage: null
 keywords: []
 description: 'Goldsborough Law, Serving your legal needs in the Piedmont triad'
-datePublished: '2016-06-21T18:28:15.206Z'
-dateModified: '2016-06-21T18:27:34.424Z'
-title: Attorney Brandon S. Goldsborough
+datePublished: '2016-06-21T18:36:26.388Z'
+dateModified: '2016-06-21T18:35:52.551Z'
+title: ''
 author:
   - name: ''
     url: ''
+sourcePath: _posts/2016-06-21-attorney-brandon-s-goldsborough.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-21-attorney-brandon-s-goldsborough.md
-url: attorney-brandon-s-goldsborough/index.html
-_type: Article
+_type: MediaObject
 
 ---
 Goldsborough Law, Serving your legal needs in the Piedmont triad
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a14e9f99-55f8-4fc7-8045-a62110f9fbd0.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7aa65a75-b8fd-49f4-bc4c-7fbe02194f74.png)
