@@ -7,9 +7,11 @@ isBasedOnUrl: >-
 inLanguage: null
 keywords: []
 description: 'http://flip.it/5L8v2'
-datePublished: '2016-06-21T15:30:31.107Z'
-dateModified: '2016-06-21T14:40:15.611Z'
-author: []
+datePublished: '2016-06-21T19:14:29.887Z'
+dateModified: '2016-06-21T19:06:02.891Z'
+author:
+  - name: ''
+    url: ''
 title: '#federal law #marijuana #scotus'
 sourcePath: _posts/2016-06-20-federal-law-marijuana-scotus.md
 authors: []
