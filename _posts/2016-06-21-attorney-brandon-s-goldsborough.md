@@ -7,8 +7,8 @@ isBasedOnUrl: >-
 inLanguage: null
 keywords: []
 description: 'Goldsborough Law, Serving your legal needs in the Piedmont triad'
-datePublished: '2016-06-21T18:40:29.188Z'
-dateModified: '2016-06-21T18:36:28.499Z'
+datePublished: '2016-06-21T18:54:09.796Z'
+dateModified: '2016-06-21T18:40:37.529Z'
 title: ''
 author:
   - name: ''
