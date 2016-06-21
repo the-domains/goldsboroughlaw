@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Goldsborough Law
-datePublished: '2016-06-20T02:01:32.177Z'
-dateModified: '2016-06-20T02:01:21.042Z'
+datePublished: '2016-06-21T19:14:59.827Z'
+dateModified: '2016-06-21T19:05:39.458Z'
 author:
   - name: ''
     url: ''
@@ -14,7 +14,7 @@ sourcePath: _posts/2016-06-09-guilford-county-courthouse.md
 title: ''
 authors: []
 publisher: null
-starred: false
+starred: true
 url: guilford-county-courthouse/index.html
 _type: Article
 
