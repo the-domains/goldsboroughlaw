@@ -4,7 +4,7 @@
         <description><![CDATA[Goldsborough Law]]></description>
         <link>https://thegrid.ai/goldsboroughlaw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 24 Jun 2016 21:19:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2016 21:45:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/goldsboroughlaw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Guilford County Courthouse]]></title>
@@ -19,6 +19,13 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/a14e9f99-55f8-4fc7-8045-a62110f9fbd0.png</link>
             <guid isPermaLink="false">e867d5e8-33bf-4fb6-a936-9b76721266c0</guid>
             <pubDate>Tue, 21 Jun 2016 19:14:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Forsyth County Hall of Justice]]></title>
+            <description><![CDATA[<article><h1>Forsyth County Hall of Justice</h1><p>Oh, the places you'll go (but shouldn't go without and attorney!)</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/26664867-e446-4e69-8c91-fa849b188897.jpg"></article>]]></description>
+            <link>https://thegrid.ai/goldsboroughlaw/forsyth-county-hall-of-justice/index.html</link>
+            <guid isPermaLink="false">b0d0c983-1773-45a3-8090-18cf73a0cf1d</guid>
+            <pubDate>Fri, 24 Jun 2016 21:45:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Attorney Brandon S. Goldsborough]]></title>
@@ -68,13 +75,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/6a9d8b01-1241-4417-bfe5-9e27d41f91b9.jpg</link>
             <guid isPermaLink="false">48054c87-4984-43e0-bd0d-14809d0a605f</guid>
             <pubDate>Tue, 21 Jun 2016 19:14:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Copyright Law]]></title>
-            <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ed5c97883657c1bb5b94a85c91715626/croprotate.jpg?cropheight=663&cropwidth=1180&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fa3aa7355-5adc-4a65-92fc-369043cddb32.jpg&x=0&y=0" alt="" title="">]]></description>
-            <link>https://thegrid.ai/goldsboroughlaw/copyright-law/index.html</link>
-            <guid isPermaLink="false">cb604c3d-0179-4a2a-8b8d-d82ab3123040</guid>
-            <pubDate>Mon, 20 Jun 2016 01:53:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
