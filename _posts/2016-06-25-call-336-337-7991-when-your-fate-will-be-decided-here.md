@@ -5,14 +5,16 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Call (336) 337-7991 when your fate will be decided here:'
-datePublished: '2016-06-25T04:04:44.905Z'
-dateModified: '2016-06-25T04:04:37.611Z'
+datePublished: '2016-06-25T04:47:40.656Z'
+dateModified: '2016-06-25T04:46:58.953Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
+sourcePath: _posts/2016-06-25-call-336-337-7991-when-your-fate-will-be-decided-here.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-25-call-336-337-7991-when-your-fate-will-be-decided-here.md
 url: call-336-337-7991-when-your-fate-will-be-decided-here/index.html
 _type: Article
 
