@@ -4,7 +4,7 @@
         <description><![CDATA[Goldsborough Law]]></description>
         <link>https://thegrid.ai/goldsboroughlaw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jul 2016 07:16:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2016 13:10:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/goldsboroughlaw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Guilford County Courthouse]]></title>
@@ -19,6 +19,13 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/a14e9f99-55f8-4fc7-8045-a62110f9fbd0.png</link>
             <guid isPermaLink="false">e867d5e8-33bf-4fb6-a936-9b76721266c0</guid>
             <pubDate>Tue, 21 Jun 2016 19:14:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Courts of Wayback When]]></title>
+            <description><![CDATA[<article><h1>The Courts of Wayback When</h1><p>Yesteryear's American justice system birthed today's  modern constitutional protections</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6f6878ac-454b-4dca-9cd3-2f05b93c80ea.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/6f6878ac-454b-4dca-9cd3-2f05b93c80ea.jpg</link>
+            <guid isPermaLink="false">e4378335-7ceb-43e5-9026-62acb9d3322d</guid>
+            <pubDate>Wed, 27 Jul 2016 13:10:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/goldsboroughlaw/attorney-brandon-s-goldsborough/index.html</link>
             <guid isPermaLink="false">2ef025a1-1a59-4a03-9007-aa7eb8fe8032</guid>
             <pubDate>Fri, 24 Jun 2016 21:19:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Amendments to Notice and Demand Provisions for DWI Cases]]></title>
-            <description><![CDATA[<article><h1>Amendments to Notice and Demand Provisions for DWI Cases</h1><p>#dui #dwi</p></article>]]></description>
-            <link>http://nccriminallaw.sog.unc.edu/amendments-notice-demand-provisions-dwi-cases/</link>
-            <guid isPermaLink="false">5fb38f5f-36a7-480a-9e01-9ccd1a14ef9c</guid>
-            <pubDate>Fri, 24 Jun 2016 16:00:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
