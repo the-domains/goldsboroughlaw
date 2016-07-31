@@ -1,0 +1,33 @@
+---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/416793f7-85be-41cf-9bd2-40d4537a658e.png
+inLanguage: null
+keywords: []
+description: >-
+  A court ruled that it could be a federal crime to share your Netflix password
+  http://flip.it/QSok-
+datePublished: '2016-07-31T15:03:55.509Z'
+dateModified: '2016-07-31T15:03:43.151Z'
+author:
+  - name: ''
+    url: www.netflix.com
+title: ''
+via: {}
+authors: []
+publisher:
+  name: netflix
+  url: >-
+    data:image/png;base64,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
+starred: false
+sourcePath: >-
+  _posts/2016-07-31-a-court-ruled-that-it-could-be-a-federal-crime-to-share-your.md
+_context: 'http://schema.org'
+_type: Article
+
+---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/416793f7-85be-41cf-9bd2-40d4537a658e.png)
+
+> A court ruled that it could be a federal crime to share your Netflix password http://flip.it/QSok-
