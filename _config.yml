@@ -1,4 +1,6 @@
 typography_spectrum: 0.82
+content_rating:
+  adult: false
 color:
   saturation: 0.4375
   brandStrength: 1
@@ -19,12 +21,15 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: goldsborough law
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/ac158a34-c6cd-4bc5-975f-e7115bd4bad7.png
+name: Goldsborough Law
 cta:
   bucket: null
   version: null
   domain: null
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/40b3d8c2-93c8-4707-bc16-1178394fad4d.ico
 collections:
   - index:
       path: /
