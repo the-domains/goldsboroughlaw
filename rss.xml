@@ -4,7 +4,7 @@
         <description><![CDATA[Goldsborough Law]]></description>
         <link>https://thegrid.ai/goldsboroughlaw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 01 Aug 2016 04:37:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2016 17:12:38 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/goldsboroughlaw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Goldsbsborough Law]]></title>
@@ -26,6 +26,13 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/a14e9f99-55f8-4fc7-8045-a62110f9fbd0.png</link>
             <guid isPermaLink="false">e867d5e8-33bf-4fb6-a936-9b76721266c0</guid>
             <pubDate>Tue, 21 Jun 2016 19:14:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9babbb23-96f4-48c1-8fec-345837e53265.png">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/9babbb23-96f4-48c1-8fec-345837e53265.png</link>
+            <guid isPermaLink="false">3c6d01ec-759c-49d3-b700-7b21b734d9ca</guid>
+            <pubDate>Mon, 01 Aug 2016 17:11:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Intellectual Property]]></title>
@@ -68,13 +75,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/5546b5c4-f36e-4e00-9445-002f1e362d17.jpg</link>
             <guid isPermaLink="false">e1c74f92-959f-47ef-a1b1-b70ea2933953</guid>
             <pubDate>Sun, 31 Jul 2016 15:00:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/aacab028-b64b-4462-ad88-0647dcd6ba10.jpg" alt="" title="">]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/aacab028-b64b-4462-ad88-0647dcd6ba10.jpg</link>
-            <guid isPermaLink="false">95a60a82-69d7-4ef5-a412-21c05d732528</guid>
-            <pubDate>Sun, 31 Jul 2016 14:50:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
