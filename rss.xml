@@ -4,7 +4,7 @@
         <description><![CDATA[Goldsborough Law]]></description>
         <link>https://thegrid.ai/goldsboroughlaw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 01 Aug 2016 04:25:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2016 04:29:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/goldsboroughlaw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Goldsbsborough Law]]></title>
@@ -26,6 +26,13 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/a14e9f99-55f8-4fc7-8045-a62110f9fbd0.png</link>
             <guid isPermaLink="false">e867d5e8-33bf-4fb6-a936-9b76721266c0</guid>
             <pubDate>Tue, 21 Jun 2016 19:14:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Supreme Court of the United States]]></title>
+            <description><![CDATA[<article><h1>Supreme Court of the United States</h1><p>#second amendment #scotus</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/867ffbf4-117b-443f-92da-1af50153732b.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/867ffbf4-117b-443f-92da-1af50153732b.jpg</link>
+            <guid isPermaLink="false">4eb69395-893c-4bd2-b95a-d62c5fac8a43</guid>
+            <pubDate>Mon, 01 Aug 2016 04:29:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/aacab028-b64b-4462-ad88-0647dcd6ba10.jpg</link>
             <guid isPermaLink="false">95a60a82-69d7-4ef5-a412-21c05d732528</guid>
             <pubDate>Sun, 31 Jul 2016 14:50:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Courts of Wayback When]]></title>
-            <description><![CDATA[<article><h1>The Courts of Wayback When</h1><p>Yesteryear's American justice system birthed today's  modern constitutional protections</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6f6878ac-454b-4dca-9cd3-2f05b93c80ea.jpg"></article>]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/6f6878ac-454b-4dca-9cd3-2f05b93c80ea.jpg</link>
-            <guid isPermaLink="false">e4378335-7ceb-43e5-9026-62acb9d3322d</guid>
-            <pubDate>Wed, 27 Jul 2016 13:10:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
